@@ -11,6 +11,9 @@ namespace Application.Auth.Login;
 public class LoginCommandHandler(UserManager<UserEntity> userManager)
     : IRequestHandler<LoginCommand, LoginResponseDto>
 {
+    /// <summary> 
+    /// MediatoR викликає Handle() автоматично, коли надходить команда LoginCommand. 
+    /// Цей метод відповідає за перевірку облікових даних користувача та генерацію токена.
     public async Task<LoginResponseDto> Handle(LoginCommand request, CancellationToken cancellationToken)
     {
         var user = await userManager.FindByEmailAsync(request.Email);
