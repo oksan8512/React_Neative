@@ -1,0 +1,17 @@
+D:\Programming\React_Native\SilpoApi\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Programming\React_Native\SilpoApi\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Programming\React_Native\SilpoApi\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Programming\React_Native\SilpoApi\Infrastructure\bin\Debug\net9.0\Application.dll
+D:\Programming\React_Native\SilpoApi\Infrastructure\bin\Debug\net9.0\Domain.dll
+D:\Programming\React_Native\SilpoApi\Infrastructure\bin\Debug\net9.0\Application.pdb
+D:\Programming\React_Native\SilpoApi\Infrastructure\bin\Debug\net9.0\Domain.pdb
+D:\Programming\React_Native\SilpoApi\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Programming\React_Native\SilpoApi\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\React_Native\SilpoApi\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Programming\React_Native\SilpoApi\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Programming\React_Native\SilpoApi\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programming\React_Native\SilpoApi\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Programming\React_Native\SilpoApi\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Programming\React_Native\SilpoApi\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Programming\React_Native\SilpoApi\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Programming\React_Native\SilpoApi\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
