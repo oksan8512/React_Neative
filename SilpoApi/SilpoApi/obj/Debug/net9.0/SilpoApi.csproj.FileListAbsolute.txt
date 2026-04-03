@@ -190,3 +190,4 @@ D:\Programming\React_Native\SilpoApi\SilpoApi\bin\Debug\net9.0\zh-Hans\Microsoft
 D:\Programming\React_Native\SilpoApi\SilpoApi\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 D:\Programming\React_Native\SilpoApi\SilpoApi\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\Programming\React_Native\SilpoApi\SilpoApi\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programming\React_Native\SilpoApi\SilpoApi\obj\Debug\net9.0\SilpoApi.sourcelink.json

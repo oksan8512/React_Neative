@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SilpoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+856d174ac582dd8fb1297c5f718caee5c0b9e642")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74869ecb5558a7cef11f9b30f263a0f0f9b63891")]
 [assembly: System.Reflection.AssemblyProductAttribute("SilpoApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SilpoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

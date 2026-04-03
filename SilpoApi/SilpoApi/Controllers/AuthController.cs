@@ -12,6 +12,7 @@ namespace SilpoApi.Controllers;
 /// не знаючи про їх реалізацію, що сприяє слабкому зв'язку
 /// між компонентами та полегшує тестування.
 /// </summary> 
+///  
 
 public class AuthController(IMediator mediator) : ControllerBase
 {
@@ -25,7 +26,26 @@ public class AuthController(IMediator mediator) : ControllerBase
             {
                 Email = request.Email,
                 Password = request.Password
-            }); return Ok(result);
+            });
+            return Ok(result);
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Refresh([FromBody] RefreshTokenRequestDto request)
+    {
+        try
+        {
+            // MediatR знаходить RefreshTokenCommandHandler і оновлює пару токенів.
+            var result = await mediator.Send(new RefreshTokenCommand
+            {
+                RefreshToken = request.RefreshToken
+            });
+            return Ok(result);
         }
         catch (Exception ex)
         {
@@ -33,4 +53,3 @@ public class AuthController(IMediator mediator) : ControllerBase
         }
     }
 }
-
