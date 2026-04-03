@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12d2d4fd-9681-4e39-89fb-7b1e54f5bd19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/my-silpo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/my-silpo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-silpo/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-silpo/app/(tabs)/index.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="12d2d4fd-9681-4e39-89fb-7b1e54f5bd19" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-silpo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3BcGZcg7mNYgueElXwYAj3aYeD1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +28,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "last_opened_file_path": "D:/Programming/React_Native",
     "node.js.detected.package.eslint": "true",
@@ -57,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774781001733</updated>
       <workItem from="1774781002921" duration="1322000" />
+      <workItem from="1775219699258" duration="62000" />
     </task>
     <servers />
   </component>
